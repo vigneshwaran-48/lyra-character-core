@@ -28,6 +28,10 @@
 		{
 			"Name": "ShooterCore",
 			"Enabled": true
+		},
+		{
+			"Name": "InteractionInventorySystem",
+			"Enabled": true
 		}
 	]
 }
