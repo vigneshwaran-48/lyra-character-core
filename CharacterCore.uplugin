@@ -32,6 +32,10 @@
 		{
 			"Name": "InteractionInventorySystem",
 			"Enabled": true
+		},
+		{
+			"Name": "GASPALS",
+			"Enabled": true
 		}
 	]
 }
